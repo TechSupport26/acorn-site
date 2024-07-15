@@ -118,7 +118,7 @@ const IndexPage = () => {
               <div className="tag-wrapper tertiary">project management</div>
             </div>
             <h1 className="heading non-tablet">
-              Project mangament
+              Project management
               <br />
               redefined for
               <br />
@@ -126,7 +126,7 @@ const IndexPage = () => {
             </h1>
 
             <h1 className="heading tablet">
-              Peer-to-Peer Agile Project Management For Software Teams
+              Peer-to-Peer Agile Project management For Software Teams
             </h1>
 
             <p>
